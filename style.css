@@ -78,6 +78,7 @@ ul li::before {
   font-size: 1.5rem;
   font-weight: bold;
   color: var(--primary);
+   font-family: 'Roboto', sans-serif;
 }
 
 .btn {
