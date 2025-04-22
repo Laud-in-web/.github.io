@@ -62,16 +62,15 @@ ul {
 }
 
 ul li {
-  padding-left: 1.2rem;
+  padding-left: 0;
   position: relative;
   margin-bottom: 0.6rem;
 }
 
-ul li::before {
-  content: "•";
-  position: absolute;
-  left: 0;
-  color: var(--accent);
+.check {
+  color: #c8aa8c;
+  font-weight: bold;
+  margin-right: 0.5rem;
 }
 
 .price {
