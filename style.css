@@ -5,7 +5,7 @@
   --accent: #c8aa8c;
   --bg: #fc8aa8c;
   --text: #2e2e2e;
-  --font: 'Georgia', serif;
+  --font: 'DM Serif Display', serif;
 }
 
 * {
@@ -40,7 +40,6 @@ header {
 h1 {
   font-size: 2.2rem;
   color: var(--primary);
-  line-height: 1rem;
 }
 
 .subtitle {
