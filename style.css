@@ -74,7 +74,7 @@ ul li {
 }
 
 .price {
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: bold;
   color: var(--primary);
    font-family: 'Roboto', sans-serif;
@@ -84,7 +84,7 @@ ul li {
   display: inline-block;
   margin-top: 1rem;
   padding: 0.8rem 1.6rem;
-  background: var(--primary);
+  background: var(--accent);
   color: white;
   text-decoration: none;
   border-radius: 5px;
